@@ -65,7 +65,7 @@ Developer profile
 <tr>
 <td valign="top">
 
-Discovery Center Missions
+Trainings
 
 </td>
 <td valign="top">

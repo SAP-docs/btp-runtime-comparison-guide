@@ -28,6 +28,27 @@ SAP BTP, Cloud Foundry runtime
 <tr>
 <td valign="top">
 
+Backup and restore
+
+</td>
+<td valign="top">
+
+Yes, but requires continuity planning.
+
+See [Kyma environment backup](https://help.sap.com/docs/btp/sap-business-technology-platform/kyma-environment-backup)
+
+</td>
+<td valign="top">
+
+Yes, but requires continuity planning.
+
+See [Resilience, High Availability, and Disaster Recovery](https://help.sap.com/docs/btp/sap-business-technology-platform/resilience-high-availability-and-disaster-recovery?version=Cloud)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 Workload isolation
 
 </td>

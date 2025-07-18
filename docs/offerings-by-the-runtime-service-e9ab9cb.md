@@ -50,7 +50,7 @@ Release frequency
 </td>
 <td valign="top">
 
-Monthly, continuous delivery; ad-hoc patches and hotfixes
+Continuous delivery; ad-hoc patches and hotfixes
 
 </td>
 <td valign="top">
@@ -73,7 +73,7 @@ The change type defines which of the following update/upgrade windows are being 
 
 -   Major Upgrades \(rarely happening, notification 4 weeks ahead of time\)
 
--   Monthly updates
+-   Continuous delivery, see [Kyma Release Channels](https://help.sap.com/docs/btp/sap-business-technology-platform/kyma-s-modular-approach?version=Cloud#kyma-release-channels)
 
 -   Immediate updates \(urgent patches, not affecting productive applications\)
 

@@ -28,6 +28,23 @@ SAP BTP, Cloud Foundry runtime
 <tr>
 <td valign="top">
 
+Custom metric telemetry
+
+</td>
+<td valign="top">
+
+Yes
+
+</td>
+<td valign="top">
+
+Yes
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 Monitoring
 
 </td>

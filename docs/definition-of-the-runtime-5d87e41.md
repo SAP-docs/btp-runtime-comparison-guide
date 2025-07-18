@@ -2,7 +2,7 @@
 
 # Definition of the Runtime
 
-Provides a definition of the SAP BTP, Kyma runtime and SAP BTP, Cloud Foundry runtime, based on aspects such as who interacts with the platform, what the required skills are, and the provided tenancy model.
+Introduces the SAP BTP, Kyma runtime and SAP BTP, Cloud Foundry runtime, together with aspects such as who interacts with the platform and the provided tenancy model.
 
 **Defintion of the Runtime**
 
@@ -28,6 +28,23 @@ SAP BTP, Cloud Foundry runtime
 <tr>
 <td valign="top">
 
+Definition
+
+</td>
+<td valign="top">
+
+SAP BTP, Kyma runtime is a fully managed Kubernetes runtime based on the open-source project "Kyma". This cloud-native solution allows the developers to extend SAP solutions with serverless Functions and combine them with containerized microservices. The offered functionality ensures smooth consumption of SAP and non-SAP applications, running workloads in a highly scalable environment, and building event- and API-based extensions.
+
+</td>
+<td valign="top">
+
+The SAP BTP, Cloud Foundry runtime lets you develop polyglot cloud-native applications and run them on the SAP BTP Cloud Foundry environment.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 Consumption and interaction with the runtime
 
 </td>
@@ -36,7 +53,7 @@ Consumption and interaction with the runtime
 -   Provisioned in SAP BTP subaccount via [SAP BTP cockpit](https://help.sap.com/docs/btp/sap-business-technology-platform/create-kyma-environment-instance?version=Cloud) or [btp CLI](https://blogs.sap.com/2022/02/24/creating-sap-btp-kyma-runtime-via-the-sap-btp-cli/)
 
 -   Access to Technical UI
--   Access to Kubernetes API using subaccount IDP
+-   [Access](https://help.sap.com/docs/btp/sap-business-technology-platform/authentication-in-kyma-environment?version=Cloud) to Kubernetes API
 -   [Access control](https://help.sap.com/docs/btp/sap-business-technology-platform/assign-roles-in-kyma-environment?version=Cloud) is managed and handled by the runtime by using Kubernetes RBAC \(Role Based Access Control\)
 -   [Commercial integration](https://help.sap.com/docs/btp/sap-business-technology-platform/available-plans-in-kyma-environment?version=Cloud) into SAP BTP subaccount and global account for quota- and entitlement management and cost control
 

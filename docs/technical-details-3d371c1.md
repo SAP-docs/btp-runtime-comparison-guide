@@ -115,23 +115,6 @@ Yes
 <tr>
 <td valign="top">
 
-Custom metric telemetry
-
-</td>
-<td valign="top">
-
-Yes
-
-</td>
-<td valign="top">
-
-Yes
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
 Service mesh support
 
 </td>
@@ -221,27 +204,6 @@ Yes
 <tr>
 <td valign="top">
 
-Backup and restore
-
-</td>
-<td valign="top">
-
-Yes, but requires continuity planning.
-
-See [Kyma environment backup](https://help.sap.com/docs/btp/sap-business-technology-platform/kyma-environment-backup)
-
-</td>
-<td valign="top">
-
-Yes, but requires continuity planning.
-
-See [Resilience, High Availability, and Disaster Recovery](https://help.sap.com/docs/btp/sap-business-technology-platform/resilience-high-availability-and-disaster-recovery?version=Cloud)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
 In-system build & deploy using buildpacks
 
 </td>
@@ -320,6 +282,8 @@ Transport services
 <td valign="top">
 
 No
+
+For Kyma, use Helm charts and a CI/CD pipeline. See [Delivery Options](https://help.sap.com/docs/btp/btp-admin-guide/delivering-applications?locale=en-US&version=Cloud#delivery-options).
 
 </td>
 <td valign="top">

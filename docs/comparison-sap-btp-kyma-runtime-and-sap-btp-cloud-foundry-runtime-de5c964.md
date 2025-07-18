@@ -11,9 +11,9 @@ If you want to run ABAP, you'll choose the [SAP BTP ABAP environment](https://he
 Both runtimes can be used to host and run your custom code, while at the same time being connected to SAP BTP Multi-Cloud Services and your on-premise systems. Depending on your use case and the skill set of your developers, choose the runtime that fits your needs.
 
 > ### Note:  
-> The following tables serve as an index into the available public documentation helping you to compare SAP’s non-ABAP runtimes.
+> The following pages present features of SAP’s non-ABAP runtimes grouped by category. Compare the features that are relevant for your runtime decision and follow the links to the respective detail documentation.
 > 
-> *Last update: November 2024*
+> *Last update: July 2025*
 
 
 
@@ -44,7 +44,7 @@ Because the runtimes don't differ from a non-functional point of view, you don't
 **Related Information**  
 
 
-[Definition of the Runtime](definition-of-the-runtime-5d87e41.md "Provides a definition of the SAP BTP, Kyma runtime and SAP BTP, Cloud Foundry runtime, based on aspects such as who interacts with the platform, what the required skills are, and the provided tenancy model.")
+[Definition of the Runtime](definition-of-the-runtime-5d87e41.md "Introduces the SAP BTP, Kyma runtime and SAP BTP, Cloud Foundry runtime, together with aspects such as who interacts with the platform and the provided tenancy model.")
 
 [Runtime Strategy and Roadmap](runtime-strategy-and-roadmap-792ca4a.md "Both runtime offerings are a fundamental part of SAP BTP’s runtime service offerings and are part of SAP’s long term strategy and commitment. This section shows where you find the relevant material.")
 
