@@ -106,12 +106,12 @@ Operating model
 </td>
 <td valign="top">
 
-See [Operating Model in the Kyma Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/862b96b02d474af9a84c07c500d34ad8.html "This operating model clearly defines the separation of tasks between SAP and the customer during all phases of a project.") :arrow_upper_right:.
+See [Operating Model in the Kyma Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/862b96b02d474af9a84c07c500d34ad8.html "") :arrow_upper_right:.
 
 </td>
 <td valign="top">
 
-See [Operating Model in the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/de55b6e9aaa749ffbb8122c8f1097a34.html "This operating model clearly defines the separation of tasks between SAP and the customer during all phases of a project.") :arrow_upper_right:.
+See [Operating Model in the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/de55b6e9aaa749ffbb8122c8f1097a34.html "") :arrow_upper_right:.
 
 </td>
 </tr>
@@ -123,12 +123,12 @@ Incident handling
 </td>
 <td valign="top">
 
-See [Operating Model in the Kyma Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/862b96b02d474af9a84c07c500d34ad8.html "This operating model clearly defines the separation of tasks between SAP and the customer during all phases of a project.") :arrow_upper_right:.
+See [Operating Model in the Kyma Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/862b96b02d474af9a84c07c500d34ad8.html "") :arrow_upper_right:.
 
 </td>
 <td valign="top">
 
-See [Operating Model in the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/de55b6e9aaa749ffbb8122c8f1097a34.html "This operating model clearly defines the separation of tasks between SAP and the customer during all phases of a project.") :arrow_upper_right:.
+See [Operating Model in the Cloud Foundry Environment](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/de55b6e9aaa749ffbb8122c8f1097a34.html "") :arrow_upper_right:.
 
 </td>
 </tr>
